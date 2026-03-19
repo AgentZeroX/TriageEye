@@ -2,10 +2,6 @@
 
 **TriageEye** is a high-speed dynamic malware analysis tool for Windows. It provides a flexible monitoring environment to capture the behavior of suspicious executables, documents, or already-running processes.
 
-<p align="center">
-  <img src="screenshot.png" alt="TriageEye Interface" width="100%">
-</p>
-
 ---
 
 ## 🚀 Four Specialized Analysis Modes
@@ -46,6 +42,10 @@ At the end of every session, TriageEye generates:
 
 > [!CAUTION]
 > **Safety Warning:** Always execute TriageEye inside a hardened Virtual Machine. Never analyze live malware on your primary host system.
+
+<p align="center">
+  <img src="screenshot.png" alt="TriageEye Interface" width="100%">
+</p>
 
 ---
 
