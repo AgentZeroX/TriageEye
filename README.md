@@ -44,7 +44,7 @@ At the end of every session, TriageEye generates:
 > **Safety Warning:** Always execute TriageEye inside a hardened Virtual Machine. Never analyze live malware on your primary host system.
 
 <p align="center">
-  <img src="screenshot.png" alt="TriageEye Interface" width="100%">
+  <img src="screenshot.png" alt="TriageEye Interface" width="70%">
 </p>
 
 ---
@@ -53,4 +53,4 @@ At the end of every session, TriageEye generates:
 **AgentZeroX** - Penetration Tester & Security Researcher
 
 ## 📄 License
-Licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
