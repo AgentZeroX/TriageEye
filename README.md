@@ -1,4 +1,4 @@
-# TriageEye 👁️ v2.1
+# TriageEye 👁️ 
 
 **TriageEye** is a high-speed dynamic malware analysis tool for Windows. It provides a flexible monitoring environment to capture the behavior of suspicious executables, documents, or already-running processes.
 
